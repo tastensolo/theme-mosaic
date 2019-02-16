@@ -1,13 +1,13 @@
 {
-  "name": "@tastensolo/theme-mosaic",
-  "version": "1.2.0",
-  "description": "Thumbsup mosaic theme with zoom",
+  "name": "@thumbsup/theme-mosaic",
+  "version": "1.1.0",
+  "description": "Thumbsup mosaic theme",
   "author": "Thumbsup",
   "license": "MIT",
-  "homepage": "https://github.com/tastensolo/theme-mosaic#readme",
+  "homepage": "https://github.com/thumbsup/theme-mosaic#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tastensolo/theme-mosaic.git"
+    "url": "git+https://github.com/thumbsup/theme-mosaic.git"
   },
   "bugs": {
     "url": "https://github.com/thumbsup/theme-mosaic/issues"
